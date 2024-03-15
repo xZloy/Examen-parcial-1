@@ -43,15 +43,15 @@ public class Grafo {
 // Ejemplo 2. Grafo 2. 22310397
 //Row 1 col 1
         mady2[0][0] = 1;
-        mady2[0][1] = 0;
+        mady2[0][1] = 1;
         mady2[0][2] = 0;
 //Row 2 col 2
-        mady2[1][0] = 0;
+        mady2[1][0] = 1;
         mady2[1][1] = 1;
-        mady2[1][2] = 0;
+        mady2[1][2] = 1;
 //Row 3 col 3
         mady2[2][0] = 0;
-        mady2[2][1] = 0;
+        mady2[2][1] = 1;
         mady2[2][2] = 1;
 
         System.out.println("Segunda matriz adyacente");
